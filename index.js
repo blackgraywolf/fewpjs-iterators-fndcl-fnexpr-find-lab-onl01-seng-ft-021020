@@ -1,5 +1,6 @@
-const testVar = {}
+function superbowlWin(superbowls){
 
+  let win = superbowls.find(superbowl => superbowl.result === "W")
 function testFunc() {
-  return "hi"
+
 }
